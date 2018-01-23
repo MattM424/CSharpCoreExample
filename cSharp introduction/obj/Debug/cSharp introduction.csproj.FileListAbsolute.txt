@@ -1,0 +1,7 @@
+c:\users\ginge\source\repos\cSharp introduction\cSharp introduction\bin\Debug\cSharp introduction.exe.config
+c:\users\ginge\source\repos\cSharp introduction\cSharp introduction\bin\Debug\cSharp introduction.exe
+c:\users\ginge\source\repos\cSharp introduction\cSharp introduction\bin\Debug\cSharp introduction.pdb
+c:\users\ginge\source\repos\cSharp introduction\cSharp introduction\obj\Debug\cSharp introduction.csprojResolveAssemblyReference.cache
+c:\users\ginge\source\repos\cSharp introduction\cSharp introduction\obj\Debug\cSharp introduction.csproj.CoreCompileInputs.cache
+c:\users\ginge\source\repos\cSharp introduction\cSharp introduction\obj\Debug\cSharp introduction.exe
+c:\users\ginge\source\repos\cSharp introduction\cSharp introduction\obj\Debug\cSharp introduction.pdb
